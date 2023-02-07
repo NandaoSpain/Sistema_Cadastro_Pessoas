@@ -1,5 +1,5 @@
-from SistemaCadastro.lib.Interface import *
-from SistemaCadastro.lib.arquivo import *
+import Interface
+import arquivo
 from time import sleep
 
 arq = 'CursoemVideo.txt'

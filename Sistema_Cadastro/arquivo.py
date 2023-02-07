@@ -1,4 +1,4 @@
-from SistemaCadastro.lib.Interface import *
+import Interface
 
 
 def arquivoExiste(nome):
